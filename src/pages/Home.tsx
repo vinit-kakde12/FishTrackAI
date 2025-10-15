@@ -26,7 +26,7 @@ const Home = () => {
       {/* Header */}
       <header className="ocean-gradient text-white p-6 rounded-b-3xl shadow-lg">
         <div className="max-w-md mx-auto">
-          <h1 className="text-2xl font-bold mb-1 animate-fade-in">Welcome to NeuraCatch AI</h1>
+          <h1 className="text-2xl font-bold mb-1 animate-fade-in">Welcome to FishTrack AI</h1>
           <p
             className="text-white/90 text-sm animate-fade-in"
             style={{ animationDelay: "0.1s" }}
